@@ -44,4 +44,4 @@
 - 👩‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CB58BB&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00ffff&section=footer"/>
