@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alicias4milly&theme=neon&mode=weekly" />
-<img loading="neon" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicias4milly&layout=compact&langs_count=7&theme=jolly"/>
+<img loading="neon" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicias4milly&layout=compact&langs_count=7&theme=neon"/>
  </div>
  
  &nbsp;
