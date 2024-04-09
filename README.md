@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB58BB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Alicia+Oliveira;+Information+Technology+student+at+Ufersa!;+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alicias4milly&theme=jolly&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alicias4milly&theme=neon&mode=weekly" />
 <img loading="neon" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicias4milly&layout=compact&langs_count=7&theme=jolly"/>
  </div>
  
